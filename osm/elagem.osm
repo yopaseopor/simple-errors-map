@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.54.12 054bb0bb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-01-05T13:49:02Z" areas="2018-01-05T13:08:03Z"/>
+
+  <node id="821006310" lat="42.5767440" lon="1.6666650">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bruxellles Restaurant"/>
+  </node>
+  <node id="948751197" lat="40.0471326" lon="4.0588502">
+    <tag k="ele" v="141.20"/>
+    <tag k="ign:latitud" v="40.0471325718100033"/>
+    <tag k="ign:longitud" v="4.0588501674010002"/>
+    <tag k="ign:red" v="Red Geodesica Nacional Convencional (ROI)"/>
+    <tag k="is_in" v="Baleares;Spain;Europe"/>
+    <tag k="man_made" v="survey_point"/>
+    <tag k="name" v="Binimel-la"/>
+    <tag k="note" v="This is a point from an official geodetic network. Use it as a reference, but do NOT move it."/>
+    <tag k="ref" v="61872"/>
+    <tag k="source" v="Instituto Geográfico Nacional"/>
+    <tag k="source:ref" v="ftp://ftp.geodesia.ign.es"/>
+  </node>
+  <node id="1066553015" lat="39.8518475" lon="3.1203200">
+    <tag k="name" v="Museu de Pol.lèntia"/>
+    <tag k="name:es" v="Museo de Pollentia"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="1241687157" lat="41.4608219" lon="0.7480153">
+    <tag k="is_in:state" v="Lleida"/>
+    <tag k="is_in:state_code" v="25"/>
+    <tag k="name" v="los Abelllers"/>
+    <tag k="place" v="locality"/>
+    <tag k="source" v="Instituto Geográfico Nacional"/>
+    <tag k="source:date" v="201011"/>
+  </node>
+  <node id="1242619035" lat="39.3643501" lon="3.0818929">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Es Xebel.linar"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1242620823" lat="39.3886507" lon="3.0259861">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Son Pixul-la"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1242625713" lat="39.7388070" lon="3.3898791">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Can Mariol-lo"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1242625716" lat="39.8047376" lon="2.6984110">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Es Mol-là"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1242637573" lat="39.6693896" lon="3.3173552">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Serral d'en Rul-lo"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1242639009" lat="39.5010957" lon="3.2049093">
+    <tag k="is_in:state" v="Baleares"/>
+    <tag k="is_in:state_code" v="7"/>
+    <tag k="name" v="Son Cortinel-lo"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="1650852377" lat="41.4542469" lon="2.2110358">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mn. Camil Rosell - Sta. Eulália"/>
+    <tag k="operator" v="AMT (Autoritat Metropolitana del Transport)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="105960"/>
+    <tag k="route_ref" v="B81 B20 N8"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1720689746" lat="41.3750434" lon="2.1705065">
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="capacity" v="22"/>
+    <tag k="ele" v="1"/>
+    <tag k="name" v="50 - Av. Paral.lel 54"/>
+    <tag k="network" v="bicing"/>
+    <tag k="operator" v="Clear Channel"/>
+    <tag k="ref" v="50"/>
+  </node>
+  <node id="1763249698" lat="40.0491261" lon="4.0543634">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Binimel-la"/>
+    <tag k="name:es" v="Binimel-là"/>
+    <tag k="phone" v="971 359 275"/>
+  </node>
+  <node id="3893737026" lat="41.4088343" lon="1.4080731">
+    <tag k="historic" v="ruins"/>
+    <tag k="name" v="Cal Carrilllo"/>
+  </node>
+  <node id="4213399954" lat="41.3343374" lon="1.0104469">
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Casa Forestal del Til.lar"/>
+  </node>
+  <node id="4296809375" lat="41.2264512" lon="1.7232756">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="08800"/>
+    <tag k="addr:street" v="Plaça de les Neus"/>
+    <tag k="email" v="vilanova@sac.es"/>
+    <tag k="name" v="Assistència Sanitària Col.legial"/>
+    <tag k="office" v="insurance"/>
+    <tag k="phone" v="938933200"/>
+  </node>
+  <node id="4426988174" lat="41.3841784" lon="1.3650867">
+    <tag k="name" v="Instal.lacions Joan Torelló"/>
+  </node>
+  <node id="4579334765" lat="41.3315158" lon="1.0087229">
+    <tag k="name" v="Barranc del Til.lar"/>
+    <tag k="place" v="locality"/>
+  </node>
+  <node id="4580285004" lat="41.3965467" lon="2.1557966">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Carrer de Sèneca"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Paral.lelo"/>
+    <tag k="name:es" v="Paral.lelo"/>
+  </node>
+  <node id="4603942289" lat="41.6220048" lon="0.6215921">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="25008"/>
+    <tag k="addr:street" v="Carrer de Pau Claris"/>
+    <tag k="name" v="Instal.lacions Manel"/>
+    <tag k="name:ca" v="Instal.lacions Manel"/>
+    <tag k="shop" v="electronics"/>
+  </node>
+  <node id="4629862816" lat="41.6251044" lon="0.6226145">
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="Col.legi Oficial d'Enginters Tècnics Agricoles"/>
+    <tag k="name:ca" v="Col.legi Oficial d'Enginters Tècnics Agricoles"/>
+  </node>
+  <node id="4647425996" lat="41.6127441" lon="0.6193891">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Col.legi Santa Anna"/>
+    <tag k="name:ca" v="Col.legi Santa Anna"/>
+  </node>
+  <node id="4657023711" lat="41.4396254" lon="2.1473296">
+    <tag k="name" v="til-ler"/>
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="4992906532" lat="41.8484432" lon="3.1250582">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bodega Xarel•lo"/>
+    <tag k="name:es" v="Bodega Xarel•lo"/>
+  </node>
+  <node id="5009538421" lat="41.3826536" lon="2.1695548">
+    <tag k="addr:country" v="españa"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="08001"/>
+    <tag k="addr:street" v="Carrer del Pintor Fortuny"/>
+    <tag k="email" v="bestmuseumbcn@hotmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Museu de les il•lusions"/>
+    <tag k="name:ca" v="Museu de les il•lusions"/>
+    <tag k="name:en" v="Museum of illusions"/>
+    <tag k="name:es" v="Museo de las ilusiones"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-10:00"/>
+    <tag k="phone" v="618555655"/>
+    <tag k="size" v="medium"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://bestmuseum.net"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="5048602524" lat="41.4059162" lon="2.1606083">
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Carrer del Torrent de les Flors"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="El Col•leccionista"/>
+    <tag k="name:ca" v="El Col•leccionista"/>
+    <tag k="opening_hours" v="Th-Sa 21:00-03:00"/>
+  </node>
+  <node id="5104491053" lat="39.5623323" lon="3.3717263">
+    <tag k="leisure" v="playground"/>
+    <tag k="name" v="Spielplatz"/>
+  </node>
+  <node id="5198201321" lat="41.3943609" lon="2.1670678">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Granja Brussel•les"/>
+    <tag k="name:ca" v="Granja Brussel•les"/>
+  </node>
+
+</osm>

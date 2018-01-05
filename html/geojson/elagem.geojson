@@ -1,0 +1,527 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/821006310",
+  "properties": {
+    "amenity": "restaurant",
+    "name": "Bruxellles Restaurant",
+    "id": "node/821006310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.666665,
+      42.576744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/948751197",
+  "properties": {
+    "ele": "141.20",
+    "ign:latitud": "40.0471325718100033",
+    "ign:longitud": "4.0588501674010002",
+    "ign:red": "Red Geodesica Nacional Convencional (ROI)",
+    "is_in": "Baleares;Spain;Europe",
+    "man_made": "survey_point",
+    "name": "Binimel-la",
+    "note": "This is a point from an official geodetic network. Use it as a reference, but do NOT move it.",
+    "ref": "61872",
+    "source": "Instituto Geográfico Nacional",
+    "source:ref": "ftp://ftp.geodesia.ign.es",
+    "id": "node/948751197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.0588502,
+      40.0471326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1066553015",
+  "properties": {
+    "name": "Museu de Pol.lèntia",
+    "name:es": "Museo de Pollentia",
+    "tourism": "museum",
+    "id": "node/1066553015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.12032,
+      39.8518475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1241687157",
+  "properties": {
+    "is_in:state": "Lleida",
+    "is_in:state_code": "25",
+    "name": "los Abelllers",
+    "place": "locality",
+    "source": "Instituto Geográfico Nacional",
+    "source:date": "201011",
+    "id": "node/1241687157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7480153,
+      41.4608219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242619035",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Es Xebel.linar",
+    "place": "locality",
+    "id": "node/1242619035"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.0818929,
+      39.3643501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242620823",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Son Pixul-la",
+    "place": "locality",
+    "id": "node/1242620823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.0259861,
+      39.3886507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242625713",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Can Mariol-lo",
+    "place": "locality",
+    "id": "node/1242625713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3898791,
+      39.738807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242625716",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Es Mol-là",
+    "place": "locality",
+    "id": "node/1242625716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.698411,
+      39.8047376
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242637573",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Serral d'en Rul-lo",
+    "place": "locality",
+    "id": "node/1242637573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3173552,
+      39.6693896
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1242639009",
+  "properties": {
+    "is_in:state": "Baleares",
+    "is_in:state_code": "7",
+    "name": "Son Cortinel-lo",
+    "place": "locality",
+    "id": "node/1242639009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.2049093,
+      39.5010957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1650852377",
+  "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mn. Camil Rosell - Sta. Eulália",
+    "operator": "AMT (Autoritat Metropolitana del Transport)",
+    "public_transport": "stop_position",
+    "ref": "105960",
+    "route_ref": "B81 B20 N8",
+    "shelter": "yes",
+    "id": "node/1650852377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.2110358,
+      41.4542469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1720689746",
+  "properties": {
+    "amenity": "bicycle_rental",
+    "capacity": "22",
+    "ele": "1",
+    "name": "50 - Av. Paral.lel 54",
+    "network": "bicing",
+    "operator": "Clear Channel",
+    "ref": "50",
+    "id": "node/1720689746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1705065,
+      41.3750434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1763249698",
+  "properties": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Binimel-la",
+    "name:es": "Binimel-là",
+    "phone": "971 359 275",
+    "id": "node/1763249698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.0543634,
+      40.0491261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3893737026",
+  "properties": {
+    "historic": "ruins",
+    "name": "Cal Carrilllo",
+    "id": "node/3893737026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.4080731,
+      41.4088343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4213399954",
+  "properties": {
+    "building": "yes",
+    "name": "Casa Forestal del Til.lar",
+    "id": "node/4213399954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0104469,
+      41.3343374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4296809375",
+  "properties": {
+    "addr:housenumber": "13",
+    "addr:postcode": "08800",
+    "addr:street": "Plaça de les Neus",
+    "email": "vilanova@sac.es",
+    "name": "Assistència Sanitària Col.legial",
+    "office": "insurance",
+    "phone": "938933200",
+    "id": "node/4296809375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.7232756,
+      41.2264512
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4426988174",
+  "properties": {
+    "name": "Instal.lacions Joan Torelló",
+    "id": "node/4426988174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.3650867,
+      41.3841784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4579334765",
+  "properties": {
+    "name": "Barranc del Til.lar",
+    "place": "locality",
+    "id": "node/4579334765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.0087229,
+      41.3315158
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4580285004",
+  "properties": {
+    "addr:housenumber": "18",
+    "addr:street": "Carrer de Sèneca",
+    "amenity": "restaurant",
+    "name": "Paral.lelo",
+    "name:es": "Paral.lelo",
+    "id": "node/4580285004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1557966,
+      41.3965467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4603942289",
+  "properties": {
+    "addr:housenumber": "12",
+    "addr:postcode": "25008",
+    "addr:street": "Carrer de Pau Claris",
+    "name": "Instal.lacions Manel",
+    "name:ca": "Instal.lacions Manel",
+    "shop": "electronics",
+    "id": "node/4603942289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6215921,
+      41.6220048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4629862816",
+  "properties": {
+    "amenity": "community_centre",
+    "name": "Col.legi Oficial d'Enginters Tècnics Agricoles",
+    "name:ca": "Col.legi Oficial d'Enginters Tècnics Agricoles",
+    "id": "node/4629862816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6226145,
+      41.6251044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4647425996",
+  "properties": {
+    "amenity": "school",
+    "name": "Col.legi Santa Anna",
+    "name:ca": "Col.legi Santa Anna",
+    "id": "node/4647425996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6193891,
+      41.6127441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4657023711",
+  "properties": {
+    "name": "til-ler",
+    "natural": "tree",
+    "id": "node/4657023711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1473296,
+      41.4396254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4992906532",
+  "properties": {
+    "amenity": "bar",
+    "name": "Bodega Xarel•lo",
+    "name:es": "Bodega Xarel•lo",
+    "id": "node/4992906532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.1250582,
+      41.8484432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5009538421",
+  "properties": {
+    "addr:country": "españa",
+    "addr:housenumber": "17",
+    "addr:postcode": "08001",
+    "addr:street": "Carrer del Pintor Fortuny",
+    "email": "bestmuseumbcn@hotmail.com",
+    "internet_access": "wlan",
+    "name": "Museu de les il•lusions",
+    "name:ca": "Museu de les il•lusions",
+    "name:en": "Museum of illusions",
+    "name:es": "Museo de las ilusiones",
+    "opening_hours": "Mo-Su 10:00-10:00",
+    "phone": "618555655",
+    "size": "medium",
+    "tourism": "museum",
+    "website": "http://bestmuseum.net",
+    "wifi": "free",
+    "id": "node/5009538421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1695548,
+      41.3826536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5048602524",
+  "properties": {
+    "addr:housenumber": "46",
+    "addr:street": "Carrer del Torrent de les Flors",
+    "amenity": "bar",
+    "name": "El Col•leccionista",
+    "name:ca": "El Col•leccionista",
+    "opening_hours": "Th-Sa 21:00-03:00",
+    "id": "node/5048602524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1606083,
+      41.4059162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5104491053",
+  "properties": {
+    "leisure": "playground",
+    "name": "Spielplatz",
+    "id": "node/5104491053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3717263,
+      39.5623323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5198201321",
+  "properties": {
+    "amenity": "cafe",
+    "name": "Granja Brussel•les",
+    "name:ca": "Granja Brussel•les",
+    "id": "node/5198201321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.1670678,
+      41.3943609
+    ]
+  }
+}
+]
+}

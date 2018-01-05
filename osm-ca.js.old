@@ -1,0 +1,45 @@
+var map = L.map('map', {
+  'center': [40.622, 1.622],
+  'zoom': 7,
+  'layers': [
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      'attribution': 'Les dades del mapa són &copy; dels col·laboradors d\'OpenStreetMap'
+    })
+  ]
+});
+
+var controlLayers = L.control.layers().addTo(map);
+
+
+//test
+var overlays = [
+%%overlays%%
+];
+
+function addDataToMap(data, map, desc, query, active){
+   var geojsonLayer = L.geoJson(data, {
+        onEachFeature: function(feature, layer) {
+            var rawid = feature.id
+            var ideditor = rawid.replace("/", "=")
+            var josmeditor = rawid.replace("/", "")
+
+            var popupText = "Consulta: " + desc + " (<a href='https://overpass-turbo.edu/s/" + query + "' target='_blank'>Overpass-turbo</a>)"
+                + "<br>Nom: " + feature.properties.name
+                + "<br><a href='http://www.openstreetmap.org/" + feature.id + "' target='_blank'>Enllaç a OSM</a>"
+                + "<br><a href='https://www.openstreetmap.org/edit?editor=id&" + ideditor + "' target='_blank'>Edita a OSM (IDeditor)</a>";
+                + "<br><a href='http://127.0.0.1:8111/load_object?new_layer=true&objects=" + josmeditor + "' target='_blank'>Edita a JOSM</a>";
+            layer.bindPopup(popupText); }
+ 
+
+       });
+
+    if ( active ) {geojsonLayer.addTo(map);};
+
+    controlLayers.addOverlay(geojsonLayer, desc);
+};
+
+
+
+$.getJSON(overlays[0].url, function(data) { addDataToMap(data, map, overlays[0].desc, overlays[0].query, overlays[0].active) });
+$.getJSON(overlays[1].url, function(data) { addDataToMap(data, map, overlays[1].desc, overlays[1].query, overlays[1].active) });
+
