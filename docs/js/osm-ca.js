@@ -15,7 +15,8 @@ var controlLayers = L.control.layers().addTo(map);
 
 
 var overlays = [
-  {desc: 'L·L', url: './geojson/elagem.geojson', query: 'ufv', active: 1},
+  {desc: 'accesibilitat', url: './geojson/elagem.geojson', query: 'ufv', active: 1},
+  {desc: 'L·L', url: './geojson/zelagem.geojson', query: 'ufv', active: 1},
   {desc: 'Vies es', url: './geojson/vies-es.geojson', query: 'ufw', active: 1}
 ];
 
